@@ -2,16 +2,16 @@
 
 
 ### Qual a proposta desta Maratona
-*. [] Organização e estudo
-*. [] Plataforma e comunidade
-*. [] Mentalidade Dev
-*. [] Praticar as tecnologias do Discover
+* [ ] Organização e estudo
+* [ ] Plataforma e comunidade
+* [ ] Mentalidade Dev
+* [ ] Praticar as tecnologias do Discover
 
 ### O que você vai ganhar com isso?
-*. [] Clareza prática
-*. [] Entendimento da plataforma e comunidade
-*. [] Projeto aplicando os conceitos do Discover
-*. [] Bases necessárias para continuar sua jornada
+* [ ] Clareza prática
+* [ ] Entendimento da plataforma e comunidade
+* [ ] Projeto aplicando os conceitos do Discover
+* [ ] Bases necessárias para continuar sua jornada
 
 ### O que rolou na primeira aula?
 
